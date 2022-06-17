@@ -1,0 +1,46 @@
+{
+    "22965139": {
+        "boundingbox": [
+            "10.8941222",
+            "10.9341222",
+            "124.5164193",
+            "124.5564193"
+        ],
+        "lat": "10.9141222",
+        "lon": "124.5364193",
+        "display_name": "Junan, Lamanoc, Merida, Leyte 4th District, Leyte, Eastern Visayas, 6540, Pilipinas / Philippines"
+    },
+    "60771108": {
+        "boundingbox": [
+            "-34.560881994595",
+            "-34.560781994595",
+            "-58.442510264865",
+            "-58.442410264865"
+        ],
+        "lat": "-34.560831994594594",
+        "lon": "-58.44246026486486",
+        "display_name": "1480, Virrey Del Pino, Barrio Chino, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426ABC, Argentina"
+    },
+    "106324934": {
+        "boundingbox": [
+            "-34.6013592",
+            "-34.6008023",
+            "-58.383815",
+            "-58.3825435"
+        ],
+        "lat": "-34.601085499999996",
+        "lon": "-58.38318689897575",
+        "display_name": "Teatro Colón, 628, Cerrito, Microcentro, San Nicolás, Buenos Aires, Ciudad Autónoma de Buenos Aires, C1010AAR, Argentina"
+    },
+    "47917194": {
+        "boundingbox": [
+            "-26.8229609",
+            "-26.8228609",
+            "-65.1965744",
+            "-65.1964744"
+        ],
+        "lat": "-26.8229109",
+        "lon": "-65.1965244",
+        "display_name": "Balcarce D, 5, 665, Balcarce, El bajo, San Miguel de Tucumán, Departamento Capital, Tucumán, 4000, Argentina"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "60771108": {
+        "boundingbox": [
+            "-34.560881994595",
+            "-34.560781994595",
+            "-58.442510264865",
+            "-58.442410264865"
+        ],
+        "lat": "-34.560831994594594",
+        "lon": "-58.44246026486486",
+        "display_name": "1480, Virrey Del Pino, Barrio Chino, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426ABC, Argentina"
+    },
+    "63717521": {
+        "boundingbox": [
+            "-34.565014938776",
+            "-34.564914938776",
+            "-58.466344667347",
+            "-58.466244667347"
+        ],
+        "lat": "-34.56496493877551",
+        "lon": "-58.466294667346936",
+        "display_name": "3228, Olazábal, Belgrano R, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428DIN, Argentina"
+    },
+    "64045870": {
+        "boundingbox": [
+            "-34.576846755102",
+            "-34.576746755102",
+            "-58.48835855102",
+            "-58.48825855102"
+        ],
+        "lat": "-34.57679675510204",
+        "lon": "-58.48830855102041",
+        "display_name": "5250, Blanco Encalada, Villa Urquiza, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, 1431, Argentina"
+    }
+}

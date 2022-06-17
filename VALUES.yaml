@@ -1,0 +1,7 @@
+INITIAL_POPULATION: 5
+AVG_SPEED: 12
+SURVIVORS: 50
+NEW_POP_SIZE: 5
+GENERATIONS: 50
+DEBUG: False
+LOCATIONS: C:\Users\Erno\Documents\ProgramasAtom\Genetic Algorithms\Logistics\Routes\route1.txt

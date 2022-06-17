@@ -1,0 +1,51 @@
+Marburg, Hesse State, Germany:50.810001,8.770833
+Freudenberg, Westphalia, Germany:50.899723,7.866667
+Krün, the Upper-Bavaria, Germany:47.5,11.283333
+Aalen, Baden-Württemberg, Germany:48.833332,10.1
+Potsdam, Brandenburg, Germany:52.391842,13.063561
+Meerbusch, North Rhine-Westphalia, Germany:51.250351,6.690717
+Pillnitz, Dresden, Germany:51.008919,13.874025
+Deggendorf, Germany:48.833195,12.961127
+Bremervörde, Lower Saxony, Germany:53.488415,9.142274
+Dernau, Rhineland-Palatinate, Germany:50.534973,7.045793
+Oberammergau, Bavaria, Germany:47.595661,11.072352
+Radebeul, Saxony, Germany:51.111565,13.649371
+Lübbecke, North Rhine-Westphalia, Germany:52.309738,8.62231
+Ebeleben, Thuringia, Germany:51.282597,10.733466
+Neu-Isenburg, Hesse, Germany:50.052208,8.695264
+Andechs, Bavaria, Germany:47.966923,11.184414
+Hauzenberg, Bavaria, Germany:48.65332,13.624967
+Linau, Germany:53.643604,10.465085
+Neudorf, Saxony-Anhalt, Germany:51.608128,11.114217
+Bad Herrenalb, Germany:48.798618,8.440026
+Salzwedel, Saxony-Anhalt, Germany:52.845913,11.166916
+Neumünster, Schleswig-Holstein, Germany:54.072945,9.984016
+Lüdinghausen, North Rhine-Westphalia, Germany:51.767815,7.443999
+Magdala, Germany:50.907417,11.445428
+Wangen im Allgäu, Baden-Württemberg, Germany:47.6875,9.8318
+Lützen, Germany:51.255856,12.141769
+Pfaffenhofen an der Ilm, Germany:48.529793,11.50393
+Wolnzach, Germany:48.603691,11.62459
+Büchenbach, Germany:49.266632,11.06074
+Haag in Oberbayern, Germany:48.161854,12.179467
+Zolling, Germany:48.451256,11.771301
+Ebersberg, Bavaria, Germany:48.077999,11.966967
+Haag an der Amper, Bavaria, Germany:48.458946,11.829878
+Olching, Bavaria, Germany:48.207069,11.333475
+Puchheim, Germany:48.150002,11.35
+Feldberg, Germany:47.859722,8.036392
+Ober-Ramstadt, Hessen, Germany:49.831219,8.745007
+Linden, Wolfenbüttel, Germany:52.150173,10.562161
+Mölln, Schleswig-Holstein, Germany:53.62009,10.689131
+Treuenbrietzen, Germany:52.091602,12.865517
+Jüterbog, Germany:51.998409,13.095016
+Gevelsberg, Germany:51.322128,7.338332
+Netphen, Germany:50.915058,8.107266
+Oftersheim, Germany:49.371571,8.583012
+Lindenberg im Allgäu, Germany:47.603394,9.887924
+Ennigerloh, Germany:51.842991,8.022423
+Jade, Germany:53.322567,8.303329
+Bad Rappenau, Germany:49.24017,9.102015
+Leinfelden, Baden-Württemberg, Germany:48.69487,9.14423
+Masserberg, Germany:50.524342,10.976715
+Gelnhausen, Germany:50.204567,9.18637
